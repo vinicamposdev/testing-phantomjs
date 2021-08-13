@@ -1,0 +1,1 @@
+Simple Crawler Made with enviroment: PhantomJS 2.1.1, Google Chrome 86.0.4240.183, npm 6.14.8, NodeJS v14.15.0
